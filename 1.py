@@ -1,16 +1,4 @@
-'''
-Please remember to print out the following information for each search algorithm:
 
-BFS and DFS:
-1)List of expanded nodes (Please see Dr. Lynch's response)
-2)Number of expanded nodes
-3)solution path
-4)Length of the solution path
-
-A*:
-All above
-5)Cost of the solution path
-'''
 import re
 import sys
 import math
